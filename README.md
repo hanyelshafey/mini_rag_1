@@ -6,3 +6,8 @@ This is RAG Model for question answering
 
 #### Install Python using MiniConda
 https://docs.anaconda.com/miniconda/#quick-command-line-install
+
+
+### install requires 
+
+### setup enveroment backage
